@@ -1,0 +1,66 @@
+body{
+    background-image: url(achtergrond_1.jpg);
+    text-align:left;
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+a{
+    padding: 8px;
+    color: #d4a60c;
+    text-decoration: none
+}
+a:hover{
+    background-color: #e9d492;
+    font-weight: 1000;
+}
+h3{
+    text-align: left;
+}
+form{
+    width: 700px;  
+}
+label{
+    text-align: left;
+    display: inline-block;
+    width: 100px;
+    margin-bottom: 10px;
+}
+input{
+    width: 400px;
+    border-radius: 4px; box-shadow: inset 2px 2px 5px #e9d492;
+}
+footer{
+    position: fixed;
+    bottom: 30px;
+}
+.cv{
+    width: 700px;
+    text-align: left;
+}
+.opmaak{
+    width: 300px;
+    
+}
+.area{
+    margin-left: 104px;
+    width: 377px;
+    height: 140px;
+    padding: 15px;
+    border-radius: 4px; box-shadow: inset 2px 2px 5px #e9d492;
+}
+.button{
+    font-size: 1.1em;
+    font-weight: 700;
+    background-color: #bd9205;
+    color: #fff;
+    margin-left: 100px;
+    height: 30px;
+    width: 108px;
+    margin-top: 20px;
+    border-color: #fff;
+}
+.button:hover{
+    background-color: #e9d492;
+}
